@@ -7,7 +7,7 @@ Forum link:
 
 Spacedock link:
 
-Github link: 
+Github link: https://github.com/Lonelykermit/SuitSwitcherForAll 
 
 
 
