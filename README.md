@@ -1,6 +1,6 @@
 # SuitSwitcherForAll
 
-Enables WildBlueCore functionality to switch kerbals suits mid-flight for all crewed parts.
+Enables WildBlueCore functionality to switch kerbals suits mid-flight for all crewed parts. A Kerbal must be hired before their suit can be changed.
 
 
 Forum link: 
